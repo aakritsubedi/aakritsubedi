@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dino](dino.gif)
+![Dino](https://raw.githubusercontent.com/aakritsubedi/aakritsubedi/master/dino.gif)
