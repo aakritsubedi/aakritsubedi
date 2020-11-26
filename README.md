@@ -6,3 +6,5 @@
 </div>
 
 ![Dino](https://raw.githubusercontent.com/aakritsubedi/aakritsubedi/master/dino.gif)
+
+[![HitCount](http://hits.dwyl.com/aakritsubedi/aakritsubedi.svg)](http://hits.dwyl.com/aakritsubedi/aakritsubedi)
