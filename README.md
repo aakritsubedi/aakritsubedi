@@ -23,14 +23,20 @@ I'm Aakrit Subedi, a **Web and Mobile** Developer, who loves exploring different
 
 **Talking about Personal Stuffs:**
 
-- 🛠 Currently working with React, Vue, node, Flutter;
+- 🛠 Currently working with React, Vue, Node.js, Flutter;
+- 👨🏾‍💻 Exploring Blockchain Technology; 
 - 👨🏻‍💻 I’m looking to collaborate on kick ass projects;
 - 🌱 I’m currently exploring my personal project;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: aakritsuebdi9@gmail.com;
+- 📫 How to reach me: aakritsubedi9@gmail.com;
+- 🇳🇵 Working from Nepal
+
+
 
 <br />
 
 
 ![Aakrit's github stats](https://github-readme-stats.vercel.app/api?username=aakritsubedi&show_icons=true&hide_border=true) 
+
+![Visitor Count](https://profile-counter.glitch.me/aakritsubedi/count.svg)
