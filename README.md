@@ -39,4 +39,5 @@ I'm Aakrit Subedi, a **Web and Mobile** Developer, who loves exploring different
 
 ![Aakrit's github stats](https://github-readme-stats.vercel.app/api?username=aakritsubedi&show_icons=true&hide_border=true) 
 
+**Profile Hits**  
 ![Visitor Count](https://profile-counter.glitch.me/aakritsubedi/count.svg)
